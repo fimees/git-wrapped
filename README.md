@@ -98,4 +98,4 @@ most fun contributions.
 
 ## License
 
-MIT
+![MIT](./LICENSE)
