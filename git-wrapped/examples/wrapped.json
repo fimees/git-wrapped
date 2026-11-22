@@ -1,0 +1,265 @@
+{
+  "year": 2026,
+  "name": "Ada Demo",
+  "commits": 564,
+  "activeDays": 196,
+  "lines": {
+    "add": 8943,
+    "del": 3202
+  },
+  "filesTouched": 7,
+  "streak": {
+    "len": 28,
+    "start": "2026-09-23",
+    "end": "2026-10-20"
+  },
+  "busiestDay": {
+    "day": "2026-10-30",
+    "count": 8
+  },
+  "byHour": [
+    33,
+    30,
+    28,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    29,
+    29,
+    30,
+    22,
+    29,
+    25,
+    37,
+    24,
+    25,
+    25,
+    0,
+    69,
+    71,
+    58
+  ],
+  "byWeekday": [
+    49,
+    72,
+    86,
+    98,
+    115,
+    97,
+    47
+  ],
+  "byMonth": [
+    61,
+    41,
+    53,
+    51,
+    41,
+    43,
+    101,
+    32,
+    56,
+    56,
+    29,
+    0
+  ],
+  "peakHour": 22,
+  "peakWeekday": "Thursday",
+  "peakMonth": "Jul",
+  "share": {
+    "night": 0.3900709219858156,
+    "morning": 0,
+    "weekend": 0.1702127659574468
+  },
+  "fixShare": 0.22872340425531915,
+  "lazy": 106,
+  "biggest": {
+    "subject": ".",
+    "repo": "demo-repo",
+    "day": "2026-10-29",
+    "add": 58,
+    "del": 39
+  },
+  "longest": {
+    "subject": "refactor: simplify config loading",
+    "day": "2026-10-30",
+    "repo": "demo-repo"
+  },
+  "languages": [
+    {
+      "name": "TypeScript",
+      "lines": 8736
+    },
+    {
+      "name": "CSS",
+      "lines": 1198
+    },
+    {
+      "name": "Rust",
+      "lines": 1084
+    }
+  ],
+  "topFiles": [
+    {
+      "file": "src/app.ts",
+      "commits": 238
+    },
+    {
+      "file": "src/render.rs",
+      "commits": 59
+    },
+    {
+      "file": "styles.css",
+      "commits": 58
+    },
+    {
+      "file": "src/api.ts",
+      "commits": 56
+    },
+    {
+      "file": "README.md",
+      "commits": 52
+    }
+  ],
+  "topWords": [
+    {
+      "word": "pipeline",
+      "n": 44
+    },
+    {
+      "word": "keyboard",
+      "n": 33
+    },
+    {
+      "word": "shortcuts",
+      "n": 33
+    },
+    {
+      "word": "dark",
+      "n": 30
+    },
+    {
+      "word": "mode",
+      "n": 30
+    },
+    {
+      "word": "toggle",
+      "n": 30
+    },
+    {
+      "word": "adapter",
+      "n": 29
+    },
+    {
+      "word": "cover",
+      "n": 29
+    },
+    {
+      "word": "drop",
+      "n": 29
+    },
+    {
+      "word": "legacy",
+      "n": 29
+    },
+    {
+      "word": "logic",
+      "n": 29
+    },
+    {
+      "word": "retry",
+      "n": 29
+    },
+    {
+      "word": "config",
+      "n": 28
+    },
+    {
+      "word": "loading",
+      "n": 28
+    },
+    {
+      "word": "simplify",
+      "n": 28
+    },
+    {
+      "word": "alignment",
+      "n": 27
+    },
+    {
+      "word": "button",
+      "n": 27
+    },
+    {
+      "word": "wip",
+      "n": 27
+    },
+    {
+      "word": "leak",
+      "n": 26
+    },
+    {
+      "word": "memory",
+      "n": 26
+    },
+    {
+      "word": "responses",
+      "n": 26
+    },
+    {
+      "word": "streaming",
+      "n": 26
+    },
+    {
+      "word": "worker",
+      "n": 26
+    },
+    {
+      "word": "speed",
+      "n": 25
+    }
+  ],
+  "types": [
+    {
+      "type": "feat",
+      "n": 149
+    },
+    {
+      "type": "fix",
+      "n": 108
+    },
+    {
+      "type": "refactor",
+      "n": 76
+    },
+    {
+      "type": "test",
+      "n": 29
+    },
+    {
+      "type": "ci",
+      "n": 25
+    },
+    {
+      "type": "chore",
+      "n": 24
+    }
+  ],
+  "repos": [
+    {
+      "repo": "demo-repo",
+      "commits": 564
+    }
+  ],
+  "first": "2026-01-01",
+  "last": "2026-11-21",
+  "persona": {
+    "id": "owl",
+    "emoji": "🦉",
+    "name": "The Night Owl",
+    "blurb": "39% of your commits land between 10pm and 4am. The bugs fear you."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "git-wrapped",
+  "version": "1.0.0",
+  "description": "Spotify Wrapped for your git history. One command, zero dependencies, 100% local: terminal report, scroll-story HTML and a shareable SVG card.",
+  "bin": {
+    "git-wrapped": "bin/git-wrapped.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "bin",
+    "src",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "git",
+    "wrapped",
+    "year-in-review",
+    "developer-stats",
+    "github",
+    "cli",
+    "commit-stats",
+    "git-stats",
+    "contribution-graph"
+  ],
+  "license": "MIT"
+}
